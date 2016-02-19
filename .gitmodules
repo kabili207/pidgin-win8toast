@@ -1,0 +1,3 @@
+[submodule "pidgin-dev"]
+	path = pidgin-dev
+	url = https://github.com/kabili207/pidgin-win32-headers.git
